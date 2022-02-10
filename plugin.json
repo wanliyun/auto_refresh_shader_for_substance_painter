@@ -1,6 +1,6 @@
 {
   "description": "Auto update shader for Substance Painter",
-  "url": "",
+  "url": "https://github.com/wanliyun/auto_refresh_shader_for_substance_painter.git",
   "version": "1.0.0",
   "license": "",
   "min_api_version": "1.1.1"
